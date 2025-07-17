@@ -1,5 +1,5 @@
 {
-  "name": "worker-name",
+  "name": "koth-world",
   "compatibility_date": "2025-07-16",
   "assets": {
     "directory": "./dist"
