@@ -1,5 +1,5 @@
 @import 'tailwindcss';
 
 body {
-  background: url('/bg.jpg') top center no-repeat #000000;
+  background: url('/bg.jpg') top center repeat #000000;
 }
